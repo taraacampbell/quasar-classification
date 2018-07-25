@@ -14,3 +14,5 @@ Using the SDSS catalog, I created a very rough model for the light curve profile
     Lomb Scargle estimates the best fit frequency of a data set using a least squares fit of a sinusoid. To determine how good a given frequency fits the data, a power is assigned. Curves with powers greater than 0.35 were removed.
   - Variation of the source.
     A maximum and a minimum threshold was determined, using chi-squared statistics to test for statistically significant deviation from a straight line
+    
+*SDSS and ASAS data can be found online for public use, with the same filenames used in this notebook
